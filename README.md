@@ -1,4 +1,4 @@
-<img src="/Advent of Code.png" width="350" align="right" />
+<img src="https://github.com/zero-to-mastery/coding_challenge-43/blob/main/Advent%20of%20Code.png" width="350" align="right" />
 
 # Advent of Code (coding_challenge-43)
 
